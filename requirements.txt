@@ -1,0 +1,6 @@
+torch~=2.1.0+cu121
+torchtext~=0.16.0
+torchmetrics~=1.7.1
+tqdm~=4.67.1
+datasets~=3.5.0
+tokenizers~=0.15.2
